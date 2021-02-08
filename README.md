@@ -10,3 +10,5 @@
 - ⚡ Fun fact: I used to be super into software minimalism and I had a functional setup that used only 48MB of RAM!
 If you are wondering how I managed to do that, I was using OpenBSD with DWM and I turned off every daemon that I didn't use.
 I even wrote a shell script for mounting USB drives, so I didn't have to use any auto-mounters.
+
+I have a [blog](https://matejamaric.com/blog/) on which I sometimes post useful articles.
