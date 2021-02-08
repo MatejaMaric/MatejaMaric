@@ -1,16 +1,12 @@
 ### Hi there 👋
 
-<!--
-**MatejaMaric/MatejaMaric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working with LaTeX and some shell scripts for my desktop.
+- 🌱 I’m currently learning Express.js
+- 👯 I’m looking to collaborate on anything open source!
+- 🤔 I’m looking for help with fixing a bug in my [software renderer](https://github.com/MatejaMaric/erender/issues/1).
+- 💬 Ask me about anything really, but I can probably help you with GNU/Linux, Laravel or C++.
+- 📫 How to reach me: <https://matejamaric.com/contact/>
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I used to be super into software minimalism and I had a functional setup that used only 48MB of RAM!
+If you are wondering how I managed to do that, I was using OpenBSD with DWM and I turned off every daemon that I didn't use.
+I even wrote a shell script for mounting USB drives, so I didn't have to use any auto-mounters.
