@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with LaTeX and some shell scripts for my desktop.
+- 🔭 I’m currently working on a bunch of projects, checkout my recent commits!
 - 🌱 I’m currently learning Express.js
 - 👯 I’m looking to collaborate on anything open source!
 - 🤔 I’m looking for help with fixing a bug in my [software renderer](https://github.com/MatejaMaric/erender/issues/1).
