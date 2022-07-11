@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on a bunch of projects, checkout my recent commits!
 - 🌱 I’m currently learning about distributed systems.
-- 👯 I’m looking to collaborate on anything open source!
-- 💬 Ask me about anything really, but I can probably help you with GNU/Linux, Go or TypeScript.
+- 👯 I’m looking to collaborate on anything open source! Preferably using Go or C.
+- 💬 Ask me about anything really, but I can probably help you with GNU/Linux, Go, TypeScript or C.
 - 📫 How to reach me: <https://matejamaric.com/contact/>
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I used to be super into software minimalism and I had a functional setup that used only 48MB of RAM!
